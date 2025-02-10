@@ -1,0 +1,11 @@
+{
+  "name": "GARAPANGW",
+  "symbol": "GARAPANGW",
+  "description": "Token $GARAPANGW official penuh kejutan",
+  "image": "https://example.com/firdaus.png",
+  "external_url": "https://example.com",
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Category", "value": "Utility Token" }
+  ]
+}
