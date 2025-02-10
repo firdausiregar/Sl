@@ -3,7 +3,7 @@
   "symbol": "GARAPANGW",
   "description": "Token $GARAPANGW official penuh kejutan",
   "image": "https://example.com/firdaus.png",
-  "external_url": "https://example.com",
+  "external_url": "https://garapangw.id",
   "attributes": [
     { "trait_type": "Blockchain", "value": "Solana" },
     { "trait_type": "Category", "value": "Utility Token" }
